@@ -1,0 +1,6 @@
+com/mycompany/boletomethod/BoletoMethod.class
+com/mycompany/boletomethod/Boleto.class
+com/mycompany/boletomethod/ProcessarBoletos.class
+com/mycompany/boletomethod/LeituraRetornoBradesco.class
+com/mycompany/boletomethod/LeituraRetorno.class
+com/mycompany/boletomethod/LeituraRetornoBancoBrasil.class
